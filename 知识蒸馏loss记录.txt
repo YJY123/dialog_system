@@ -1,0 +1,18 @@
+epoch1      loss：6.13742
+epoch2      loss：5.2666
+epoch3      loss：5.41029
+epoch4      loss：6.096347
+
+
+epoch5--->0      loss：29.8983
+epoch6--->1      loss：31.965
+epoch7--->2      loss：32.8966
+epoch8--->3      loss：33.3060
+
+==========修改参数试最后一次=============
+epoch0      loss：18.55185
+epoch1      loss：18.53704
+epoch2      loss：14.66809
+epoch3      loss：13.48635
+epoch4      loss：12.97377
+epoch5      loss：12.74537
